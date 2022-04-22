@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/lagevrio/static/css/main.3b214869.css",
-    "main.js": "/lagevrio/static/js/main.a519adef.js",
+    "main.js": "/lagevrio/static/js/main.62e14519.js",
     "static/js/787.92827ba2.chunk.js": "/lagevrio/static/js/787.92827ba2.chunk.js",
     "index.html": "/lagevrio/index.html",
     "main.3b214869.css.map": "/lagevrio/static/css/main.3b214869.css.map",
-    "main.a519adef.js.map": "/lagevrio/static/js/main.a519adef.js.map",
+    "main.62e14519.js.map": "/lagevrio/static/js/main.62e14519.js.map",
     "787.92827ba2.chunk.js.map": "/lagevrio/static/js/787.92827ba2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3b214869.css",
-    "static/js/main.a519adef.js"
+    "static/js/main.62e14519.js"
   ]
 }
